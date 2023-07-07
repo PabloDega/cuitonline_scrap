@@ -1,0 +1,1 @@
+Aplicacion para tomar los datos de actividad fiscal en la web cuitonline en base a una lista de CUITs
